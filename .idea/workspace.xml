@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b4c733f-aa4e-489e-9f82-9a5df5e6087a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/MiPrimerApiRestApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/config/CustomRevisionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controllers/PersonaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entities/Autor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entities/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entities/Persona.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entities/audit/Revision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/repositories/AutorRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/repositories/BaseRespository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/repositories/PersonaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/services/AutorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/services/AutorServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/services/BaseService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/services/BaseServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/services/PersonaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/services/PersonaServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/MiPrimerApiRestApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7b4c733f-aa4e-489e-9f82-9a5df5e6087a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
