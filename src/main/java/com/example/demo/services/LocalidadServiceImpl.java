@@ -1,4 +1,13 @@
 package com.example.demo.services;
 
-public class LocalidadServiceImpl {
+import com.example.demo.entities.Localidad;
+import com.example.demo.repositories.BaseRepository;
+import org.springframework.stereotype.Service;
+
+@Service
+public class LocalidadServiceImpl extends BaseServiceImpl<Localidad, Integer> implements LocalidadService {
+
+    public LocalidadServiceImpl(BaseRepository<Localidad, Integer> baseRepository) {
+        super(baseRepository);
+    }
 }
