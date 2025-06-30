@@ -54,7 +54,6 @@ Proyecto backend desarrollado en Java con Spring Boot, que implementa una arquit
 1. Cloná el repositorio:
    ```bash
    git clone https://github.com/jazminaliaga/demoAliaga.git
-´´´
 
 2. Abrí el proyecto con IntelliJ, Eclipse o tu IDE favorito.
 
