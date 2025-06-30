@@ -36,7 +36,7 @@ Proyecto backend desarrollado en Java con Spring Boot, que implementa una arquit
 
 ---
 
-## 🌐 Endpoints disponibles (ejemplos)
+## 🌐 Endpoints disponibles
 
 | Método | URL                             | Descripción                          |
 |--------|----------------------------------|--------------------------------------|
